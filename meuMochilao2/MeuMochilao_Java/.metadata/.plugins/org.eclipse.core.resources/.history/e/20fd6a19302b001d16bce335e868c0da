@@ -1,0 +1,48 @@
+package modelo;
+
+public class Transporte {
+	// Atributos
+	private int id;
+	private String cia;
+	private int valor;
+	
+	//Construtores
+	public Transporte(int id, String cia, int valor) {
+		this.id = id;
+		this.cia = cia;
+		this.valor = valor;
+	}
+	
+	//Gets e Sets
+	public int getId() {
+		return id;
+	}
+
+	public void setId(int id) {
+		this.id = id;
+	}
+
+	public String getCia() {
+		return cia;
+	}
+
+	public void setCia(String cia) {
+		this.cia = cia;
+	}
+
+	public int getValor() {
+		return valor;
+	}
+
+	public void setValor(int valor) {
+		this.valor = valor;
+	}
+	
+	//Métodos
+	@Override
+	public String toString() {
+		return "Transporte [id=" + id + ", cia=" + cia + ", valor=" + valor + "]";
+	}
+	
+	
+}

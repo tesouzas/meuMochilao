@@ -1,0 +1,11 @@
+package crud;
+
+import java.util.Scanner;
+
+import dao.HospedagemDAO;
+import modelo.Hospedagem;
+
+public class HospedagemCrud {
+	
+
+}

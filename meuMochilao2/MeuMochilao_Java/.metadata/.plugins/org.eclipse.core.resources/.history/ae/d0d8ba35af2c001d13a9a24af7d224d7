@@ -1,0 +1,14 @@
+package teste;
+
+import connection.ConnectionMySQL;
+
+public class Teste {
+
+	public static void main(String[] args) throws Exception {
+		// TODO Auto-generated method stub
+		
+		ConnectionMySQL conexao = new ConnectionMySQL();
+		conexao.createConnectionMySQL();
+	}
+
+}

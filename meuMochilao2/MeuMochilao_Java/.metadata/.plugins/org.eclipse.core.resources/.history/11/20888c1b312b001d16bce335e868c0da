@@ -1,0 +1,9 @@
+package modelo;
+
+public class Cliente {
+	private int id;
+	private int rg;
+	private int cpf;
+	
+	private String tipo;
+}

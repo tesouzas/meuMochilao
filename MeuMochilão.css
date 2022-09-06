@@ -1,0 +1,61 @@
+.menu {
+    background-color: #ff0000;   
+
+}
+
+
+.a {
+    color: white;
+    text-decoration: none;
+}
+
+h2 {
+    color: royalblue;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+
+h3 {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: black;
+}
+  
+#formasdepagamento {
+    color: royalblue;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: medium ;
+}
+  
+
+/*CONFIG HOME*/
+.botao {
+    background: #fc6; 
+   }
+    
+   #linha {
+    width: 95%;
+    margin: auto;
+    height: 400px; 
+   }
+
+
+.image {
+
+   height: 50vh;
+}
+
+#carouselExampleIndicators {
+    width: 150vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 0 auto
+}
+
+.row{
+    margin: 0 auto;
+    padding: 10px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}

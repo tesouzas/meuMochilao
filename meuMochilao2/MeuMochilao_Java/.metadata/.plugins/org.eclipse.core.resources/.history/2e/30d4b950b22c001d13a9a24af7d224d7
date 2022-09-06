@@ -1,0 +1,109 @@
+package modelo;
+
+import java.util.List;
+
+public class Reserva {
+	// Atributos
+	private int id;
+	private String origem;
+	private String destino;
+	private String ida;
+	private String volta;
+	private double valor;
+	private int acompanhantes;
+	
+	//Construtores
+	public Reserva () {
+		
+	}
+	public Reserva(int id, String origem, String destino, String ida, String volta, double valor, int acompanhantes) {
+		this.id = id;
+		this.origem = origem;
+		this.destino = destino;
+		this.ida = ida;
+		this.volta = volta;
+		this.valor = valor;
+		this.acompanhantes = acompanhantes;
+	}
+	
+	//Gets e Sets
+	public int getId() {
+		return id;
+	}
+
+	public void setId(int id) {
+		this.id = id;
+	}
+
+	public String getOrigem() {
+		return origem;
+	}
+
+	public void setOrigem(String origem) {
+		this.origem = origem;
+	}
+
+	public String getDestino() {
+		return destino;
+	}
+
+	public void setDestino(String destino) {
+		this.destino = destino;
+	}
+
+	public String getIda() {
+		return ida;
+	}
+
+	public void setIda(String string) {
+		this.ida = string;
+	}
+
+	public String getVolta() {
+		return volta;
+	}
+
+	public void setVolta(String string) {
+		this.volta = string;
+	}
+
+	public double getValor() {
+		return valor;
+	}
+
+	public void setValor(double valor) {
+		this.valor = valor;
+	}
+
+	public int getAcompanhantes() {
+		return acompanhantes;
+	}
+
+	public void setAcompanhantes(int acompanhantes) {
+		this.acompanhantes = acompanhantes;
+	}
+	
+	//Métodos
+	@Override
+	public String toString() {
+		return "Reserva [id=" + id + ", origem=" + origem + ", destino=" + destino + ", ida=" + ida + ", volta=" + volta
+				+ ", valor=" + valor + ", acompanhantes=" + acompanhantes + "]";
+	}
+	public static void add(Reserva reservas) {
+		// TODO Auto-generated method stub
+		
+	}
+	public Cliente getTransporte() {
+		// TODO Auto-generated method stub
+		return null;
+	}
+	public Cliente getHospedagem() {
+		// TODO Auto-generated method stub
+		return null;
+	}
+	public Cliente getCliente() {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+}

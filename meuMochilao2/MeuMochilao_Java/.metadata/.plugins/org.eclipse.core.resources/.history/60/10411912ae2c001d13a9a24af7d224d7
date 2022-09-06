@@ -1,0 +1,14 @@
+package teste;
+
+import connection.ConnectionMySQL;
+
+public class Teste {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		
+		ConnectionMySQL conexao = new ConnectionMySQL();
+		conexao.
+	}
+
+}
