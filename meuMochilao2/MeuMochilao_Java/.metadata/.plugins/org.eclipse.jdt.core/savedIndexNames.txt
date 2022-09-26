@@ -1,4 +1,0 @@
-INDEX VERSION 1.131+C:\Users\steph\OneDrive\Documentos\STEPHANIE\RECODE\meuMochilao2\MeuMochilao_Java\.metadata\.plugins\org.eclipse.jdt.core
-32595093.index
-3863426663.index
-1865797976.index
