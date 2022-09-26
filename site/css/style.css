@@ -1,0 +1,95 @@
+*{
+    line-height: 1.0;
+}
+
+.a {
+    color: white;
+    text-decoration: none;
+}
+
+.button {
+    background: #016ABC;
+    color: rgb(255, 255, 255);
+    border: 1px solid rgb(129, 163, 181);
+    border-radius: 50px;
+    box-shadow: 15px 15px 15px rgb(129, 163, 181);
+    margin-top: 1em;
+    text-shadow: none;
+    display: flex;
+    flex:content
+}
+
+.button:hover {
+    background: #B9DFFF;
+    color: #fff;
+    border: 1px solid #eee;
+    border-radius: 20px;
+    box-shadow: 5px 5px 5px #eee;
+    text-shadow: none;
+}
+
+.copy{
+    font-size: x-small;
+}
+
+.destinos{
+    margin: 0 auto;
+    padding: 10px; 
+}
+
+h2 {
+    color: royalblue;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+
+h3 {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: black;
+}
+  
+#formasdepagamento {
+    color: royalblue;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: medium ;
+}
+.menu {
+    background-color: #ff0000;   
+
+} 
+
+/*CONFIG HOME*/
+.botao {
+    background: #fc6; 
+   }
+    
+#linha {
+    width: 95%;
+    margin: auto;
+    height: 400px; 
+}
+
+
+.image {
+
+   height: 50vh;
+}
+
+#carouselExampleIndicators {
+    width: 150vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 0 auto
+}
+
+.row{
+    margin: 0 auto;
+    padding: 10px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+/*---------------------------------*/
+
