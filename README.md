@@ -1,6 +1,6 @@
 <div align="center">
     <h1>Meu Mochilão - Agência de viagens</h1>
-    <img width="250vh" src="../Imagens/Logo/LogoMM1.png" alt="Logomarca Meu Mochilão">/>
+
 </div>
 
 <h2>Recode Pro 2022</h2>
