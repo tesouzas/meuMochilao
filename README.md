@@ -10,12 +10,13 @@
 <ul>
     <li><b>Status: </b>em progresso.</li>
     <li><b>Tecnologias: </b>HTML, CSS e Bootstrap.</li>
+    <li><b>Mobile: React Native</b></li>
 </ul>
 <h3>Back-end</h3>
 
 <ul>
     <li><b>Status: </b>em progresso.</li>   
-    <li><b>Tecnologias: </b>Java, Spring.</li>
+    <li><b>Tecnologias: </b>Java, Spring, C#.</li>
 </ul>
 <h3>Base de dados</h3>
 <ul>
